@@ -1,6 +1,6 @@
 # Frontend Mentor - Calculadora de reembolso de hipoteca
 
-![Vista previa del diseño para el desafío de codificación de la calculadora de reembolso de hipoteca](./preview.jpg)
+![Vista previa del diseño para el desafío de codificación de la calculadora de reembolso de hipoteca](/preview.jpg)
 
 ## ¡Bienvenido! 👋
 
